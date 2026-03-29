@@ -1,8 +1,4 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff7e5f, #feb47b); padding:12px 25px; border-radius:10px; color:white;">
-    Nikhil Gupta
-  </span>
-</h1>
+<img src="https://img.shields.io/badge/Nikhil-Gupta-blue?style=for-the-badge"/>
 
 <h2 align="center">Hi 👋, I'm Nikhil Gupta</h2>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Full Stack Learner | 🤖 AI Enthusiast</h3>
