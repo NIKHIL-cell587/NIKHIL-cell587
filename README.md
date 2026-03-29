@@ -1,6 +1,5 @@
 <img src="https://img.shields.io/badge/Nikhil-Gupta-blue?style=for-the-badge"/>
-
-<h2 align="center">Hi 👋, I'm Nikhil Gupta</h2>
+<h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Full Stack Learner | 🤖 AI Enthusiast</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -48,9 +47,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-cell587&show_icons=true&theme=tokyonight"/>
-</p>
+https://github-readme-stats.vercel.app/api?username=NIKHIL-cell587
 
 ---
 
