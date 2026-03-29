@@ -41,14 +41,6 @@
 | 👁️ Omni-Eye | AI based monitoring and surveillance project |
 | 🎓 STDAMS | Student Data & Attendance Management System |
 
-
-
----
-
-## 📊 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=NIKHIL-cell587
-
 ---
 
 ## 🔥 GitHub Streak
