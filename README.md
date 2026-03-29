@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="background-color:#0d1117; color:#00ffff; padding:10px 20px; border-radius:10px;">
+  <span style="background: linear-gradient(90deg, #ff7e5f, #feb47b); padding:12px 25px; border-radius:10px; color:white;">
     Nikhil Gupta
   </span>
 </h1>
