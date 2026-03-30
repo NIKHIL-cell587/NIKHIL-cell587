@@ -39,7 +39,33 @@
 | Project | Description |
 |--------|------------|
 | 👁️ Omni-Eye | AI based monitoring and surveillance project |
-| 🎓 STDAMS | Student Data & Attendance Management System |
+| 🎓 STDAMS | # 🛰️ STDAMS - Satellite Threat Detection & Autonomous Monitoring System
+
+## 📌 Overview
+STDAMS (Satellite Threat Detection & Autonomous Monitoring System) is an advanced system designed to monitor, detect, and analyze potential threats using automated technologies. It aims to enhance surveillance and security through intelligent data processing.
+
+## 🚀 Features
+- 🔍 Threat Detection System  
+- 🤖 Autonomous Monitoring  
+- 📡 Real-time Data Analysis  
+- 🚨 Alert & Notification System  
+- 📊 Data Logging & Tracking  
+
+## 🛠️ Tech Stack
+- Python / C (edit as per your project)
+- AI / Machine Learning (if used)
+- Sensors / Simulation (if applicable)
+
+## 🎯 Objective
+To build a smart system that can automatically detect and respond to potential threats with minimal human intervention.
+
+## 📈 Future Scope
+- Integration with satellite systems  
+- Cloud-based monitoring  
+- Advanced AI models  
+
+## 👨‍💻 Author
+Nikhil Gupta|
 
 ---
 
