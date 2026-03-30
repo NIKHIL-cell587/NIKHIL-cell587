@@ -1,18 +1,78 @@
-body {
+* {
     margin: 0;
+    padding: 0;
     font-family: Arial;
-    background: linear-gradient(to right, #4facfe, #00f2fe);
-    color: white;
-    text-align: center;
 }
 
-header {
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+}
+
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: rgba(0,0,0,0.3);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    animation: fadeIn 2s ease-in;
+}
+
+.hero button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background: #ff7e5f;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Projects */
+.projects {
+    text-align: center;
     padding: 50px;
 }
 
-.project {
-    background: rgba(0,0,0,0.3);
-    margin: 20px;
+.card {
+    background: rgba(255,255,255,0.1);
+    margin: 20px auto;
     padding: 20px;
+    width: 250px;
     border-radius: 10px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
 }
