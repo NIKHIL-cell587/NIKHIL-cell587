@@ -39,36 +39,8 @@
 | Project | Description |
 |--------|------------|
 | 👁️ Omni-Eye | AI based monitoring and surveillance project
-
-## 📌 Overview
-Omni-Eye (Omnidirectional Neural Intelligent Surveillance System) is an AI-based smart monitoring system designed to provide 360° surveillance and intelligent threat detection. It uses advanced technologies to ensure real-time tracking, analysis, and security.
-
-## 🚀 Features
-- 🎥 360° Surveillance Monitoring  
-- 🤖 AI-based Object Detection  
-- 🚨 Real-time Alert System  
-- 📊 Data Analysis & Tracking  
-- 🔐 Smart Security System  
-
-## 🛠️ Tech Stack
-- Python  
-- OpenCV / AI / ML  
-- Camera / Sensors  
-
-## 🎯 Objective
-To develop an intelligent surveillance system capable of monitoring surroundings and detecting suspicious activities automatically.
-
-## 📈 Future Scope
-- Face Recognition Integration  
-- Cloud-based Monitoring  
-- Mobile App Connectivity  
-- Advanced AI Models  
-
-## 👨‍💻 Author
-Nikhil Gupta|
-
-Project 2
 | 🎓 STDAMS | # 🛰️ STDAMS - Satellite Threat Detection & Autonomous Monitoring System
+|--------|------------|
 
 ## 📌 Overview
 STDAMS (Satellite Threat Detection & Autonomous Monitoring System) is an advanced system designed to monitor, detect, and analyze potential threats using automated technologies. It aims to enhance surveillance and security through intelligent data processing.
