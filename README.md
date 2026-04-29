@@ -13,6 +13,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Learner;Problem+Solver&center=true&width=550&height=45">
 </p>
+# Hi, I'm Nikhil Gupta! 👋
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-cell587&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-cell587&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" width="48%" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-cell587&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 ---
 
