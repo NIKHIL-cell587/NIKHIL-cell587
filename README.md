@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 Full Stack Learner | 🤖 AI Enthusiast</h3>
 <p align="center">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Nikhil%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🚀%20Aspiring%20Software%20Developer%20|%20💻%20Full%20Stack%20Learner%20|%20🤖%20AI%20Enthusiast&descSize=20&descAlignY=60&fontColor=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nikhil-Gupta-blue?style=for-the-badge"/>
+</p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,12 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-cell587&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
 </p>
-
----
-
-## 👨‍💻 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 ---
 
